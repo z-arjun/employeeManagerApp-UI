@@ -1,5 +1,5 @@
 # employeeManagerApp-UI
 
-single-page application employee Management application
+single-page employee Management application
 
  
